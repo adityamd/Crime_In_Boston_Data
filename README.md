@@ -1,0 +1,1 @@
+I have made this repo that includes chunks of data about Crime Rate In Boston, extracted from a 55MB csv file(you can also go through that:'crime.csv') since I feel it can be useful to someone. Hope it serves.
